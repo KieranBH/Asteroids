@@ -1,6 +1,6 @@
 class Pulsteroid extends Asteroid {
   
-  
+  int incr = 3;
   
   Pulsteroid(float initialPositionX, float initialPositionY, float initialSpeedX, float initialSpeedY, float initialAsteroidDiameter, color colorOfAsteroid)
   {
