@@ -7,7 +7,6 @@ class Asteroid {
   color asteroidColor;
   float asteroidDiameter;
   float asteroidRadius;
-  int incr = 3;
   
   Asteroid (float initialPositionX, float initialPositionY, float initialSpeedX, float initialSpeedY, float initialAsteroidDiameter, color colorOfAsteroid) 
   {
