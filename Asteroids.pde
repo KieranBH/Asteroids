@@ -12,7 +12,7 @@ void setup() {
 void draw() {
 
   background(255);    // refresh the background
-
+  fill(150);
 
   int lastArraySize = arrayListOfAsteroids.size();
 
